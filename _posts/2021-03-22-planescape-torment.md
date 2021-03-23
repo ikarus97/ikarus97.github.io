@@ -20,3 +20,7 @@ tags:
 > "Funny," said the old woman as she granted his wish and disappeared forever. "That was your first wish."
 > 
 > -- from Morte's story.
+
+One of the best D&D games.
+
+[wikipedia link](https://en.wikipedia.org/wiki/Planescape:_Torment)
