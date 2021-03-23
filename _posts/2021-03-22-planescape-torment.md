@@ -2,8 +2,6 @@
 title: "Planescape Torment"
 categories:
   - game
-tags:
-  - game
 ---
 
 > An elderly man was sitting alone on a dark path, right? He wasn’t certain of which direction to go, and 
