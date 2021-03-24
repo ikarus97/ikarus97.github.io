@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "ikarus97's log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "In-Hee Lee"
+name                     : "ikarus97"
 description              : "Collection of favorites"
 url                      : "https://ikarus97.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "In-Hee Lee"
+  name             : "ikarus97"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Who am I?"
+  bio              : "My precious..."
   location         : "Somewhere"
   email            :
   links:
