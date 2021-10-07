@@ -1,8 +1,8 @@
-----
+---
 title: "PSYCHO-PASS"
 categories:
   - animation
-----
+---
 
 > What needs to be done is done by those capable of doing it.
 
