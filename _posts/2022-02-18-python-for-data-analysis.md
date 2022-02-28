@@ -26,4 +26,14 @@ accompanying materials: [link](https://github.com/wesm/pydata-book)
 * introspection - put ? after object or function.
     * ?? after name of a function will show the function's source code. 
     * Can be combined with wildcard.
+
+## 2022-02-26
+
+* assigning a variable (or name) is creating a reference to the object on the righthand side of the equals sign.
+* when passing objects as arguments to a function, new local variables are created referencing the original objects without copying them. 
+
+## 2022-02-28
+
+* to check if two references refer to the same object, use `is`. Use `is not` if you want to check that two objects are not the same.
+* `list` always create new Python list (copy).
 * 
